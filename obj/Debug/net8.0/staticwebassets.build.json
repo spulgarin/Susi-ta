@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "4hU2xtXqvL3HGTLxJ0X4pB78e7t1NZxvUkoQPWwrrn4=",
+  "Source": "ProyectoBackendCsharp",
+  "BasePath": "_content/ProyectoBackendCsharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProyectoBackendCsharp\\wwwroot",
+      "Source": "ProyectoBackendCsharp",
+      "ContentRoot": "C:\\Users\\sebas\\OneDrive\\Escritorio\\Septimo Semestre\\Diseño de sistemas de informacion\\Prototipo\\susi-ta\\ProyectoBackendCsharp\\wwwroot\\",
+      "BasePath": "_content/ProyectoBackendCsharp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

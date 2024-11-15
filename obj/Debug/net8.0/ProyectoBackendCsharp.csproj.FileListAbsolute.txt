@@ -1,0 +1,728 @@
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.csproj.AssemblyReference.cache
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.GeneratedMSBuildEditorConfig.editorconfig
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.AssemblyInfoInputs.cache
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.AssemblyInfo.cs
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.csproj.CoreCompileInputs.cache
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.MvcApplicationPartsAssemblyInfo.cache
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\appsettings.Development.json
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\appsettings.json
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.staticwebassets.runtime.json
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.exe
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.deps.json
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.runtimeconfig.json
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.pdb
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\AWSSDK.Core.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\Azure.Core.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\Azure.Identity.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\DnsClient.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\Google.Protobuf.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Bson.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Driver.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\MySql.Data.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\Npgsql.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\SharpCompress.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\Snappier.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\System.Drawing.Common.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\System.Memory.Data.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\System.Runtime.Caching.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\System.Security.Permissions.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\System.Windows.Extensions.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\ZstdSharp.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets.build.json
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets.development.json
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoBackendCsharp.Microsoft.AspNetCore.StaticWebAssets.props
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoBackendCsharp.props
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoBackendCsharp.props
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoBackendCsharp.props
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets.pack.json
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\scopedcss\bundle\ProyectoBackendCsharp.styles.css
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\Proyecto.4FD91D1F.Up2Date
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\refint\ProyectoBackendCsharp.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.pdb
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.genruntimeconfig.cache
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\obj\Debug\net8.0\ref\ProyectoBackendCsharp.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\BCrypt.Net-Next.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\proyectoIndicadores\csharpcode\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\appsettings.json
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\ProyectoBackendCsharp.staticwebassets.runtime.json
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\ProyectoBackendCsharp.exe
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\ProyectoBackendCsharp.deps.json
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\ProyectoBackendCsharp.runtimeconfig.json
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\ProyectoBackendCsharp.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\ProyectoBackendCsharp.pdb
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\DnsClient.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\Npgsql.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\Snappier.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\ProyectoBackendCsharp.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\ProyectoBackendCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\ProyectoBackendCsharp.AssemblyInfoInputs.cache
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\ProyectoBackendCsharp.AssemblyInfo.cs
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\ProyectoBackendCsharp.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\ProyectoBackendCsharp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoBackendCsharp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoBackendCsharp.props
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoBackendCsharp.props
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoBackendCsharp.props
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\scopedcss\bundle\ProyectoBackendCsharp.styles.css
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\Proyecto.4FD91D1F.Up2Date
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\ProyectoBackendCsharp.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\refint\ProyectoBackendCsharp.dll
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\ProyectoBackendCsharp.pdb
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\ProyectoBackendCsharp.genruntimeconfig.cache
+C:\Users\carlo\Downloads\proyectos\proyectobackendcsharp\obj\Debug\net8.0\ref\ProyectoBackendCsharp.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\appsettings.json
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\ProyectoBackendCsharp.staticwebassets.runtime.json
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\ProyectoBackendCsharp.exe
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\ProyectoBackendCsharp.deps.json
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\ProyectoBackendCsharp.runtimeconfig.json
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\ProyectoBackendCsharp.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\ProyectoBackendCsharp.pdb
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\DnsClient.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\Npgsql.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\Snappier.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\ProyectoBackendCsharp.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\ProyectoBackendCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\ProyectoBackendCsharp.AssemblyInfoInputs.cache
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\ProyectoBackendCsharp.AssemblyInfo.cs
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\ProyectoBackendCsharp.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\ProyectoBackendCsharp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoBackendCsharp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoBackendCsharp.props
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoBackendCsharp.props
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoBackendCsharp.props
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\scopedcss\bundle\ProyectoBackendCsharp.styles.css
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\Proyecto.4FD91D1F.Up2Date
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\ProyectoBackendCsharp.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\refint\ProyectoBackendCsharp.dll
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\ProyectoBackendCsharp.pdb
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\ProyectoBackendCsharp.genruntimeconfig.cache
+C:\Users\carlo\Downloads\proyectosVSCODE\proyectobackendcsharp\obj\Debug\net8.0\ref\ProyectoBackendCsharp.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\appsettings.Development.json
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\appsettings.json
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.staticwebassets.runtime.json
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.exe
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.deps.json
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.runtimeconfig.json
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.pdb
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Azure.Core.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Azure.Identity.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\DnsClient.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Google.Protobuf.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\MySql.Data.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Npgsql.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\SharpCompress.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Snappier.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ZstdSharp.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.csproj.AssemblyReference.cache
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.AssemblyInfoInputs.cache
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.AssemblyInfo.cs
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.csproj.CoreCompileInputs.cache
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.MvcApplicationPartsAssemblyInfo.cache
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets.development.json
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoBackendCsharp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoBackendCsharp.props
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoBackendCsharp.props
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoBackendCsharp.props
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\scopedcss\bundle\ProyectoBackendCsharp.styles.css
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\Proyecto.4FD91D1F.Up2Date
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\refint\ProyectoBackendCsharp.dll
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.pdb
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.genruntimeconfig.cache
+C:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ref\ProyectoBackendCsharp.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\appsettings.Development.json
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\appsettings.json
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.exe
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.staticwebassets.runtime.json
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.deps.json
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.runtimeconfig.json
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.pdb
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Azure.Core.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Azure.Identity.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\DnsClient.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Google.Protobuf.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\MySql.Data.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Npgsql.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\SharpCompress.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Snappier.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Memory.Data.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ZstdSharp.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.csproj.AssemblyReference.cache
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.AssemblyInfoInputs.cache
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.AssemblyInfo.cs
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.csproj.CoreCompileInputs.cache
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.MvcApplicationPartsAssemblyInfo.cache
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets.build.json
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets.development.json
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoBackendCsharp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoBackendCsharp.props
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoBackendCsharp.props
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoBackendCsharp.props
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\scopedcss\bundle\ProyectoBackendCsharp.styles.css
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\Proyecto.4FD91D1F.Up2Date
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\refint\ProyectoBackendCsharp.dll
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.pdb
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.genruntimeconfig.cache
+D:\proyectocs\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ref\ProyectoBackendCsharp.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\appsettings.Development.json
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\appsettings.json
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.staticwebassets.runtime.json
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.exe
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.deps.json
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.runtimeconfig.json
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.pdb
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Azure.Core.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Azure.Identity.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\DnsClient.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Google.Protobuf.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\MySql.Data.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Npgsql.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\SharpCompress.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\Snappier.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Memory.Data.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ZstdSharp.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.csproj.AssemblyReference.cache
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.AssemblyInfoInputs.cache
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.AssemblyInfo.cs
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.csproj.CoreCompileInputs.cache
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.MvcApplicationPartsAssemblyInfo.cache
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets.build.json
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets.development.json
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoBackendCsharp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoBackendCsharp.props
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoBackendCsharp.props
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoBackendCsharp.props
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\scopedcss\bundle\ProyectoBackendCsharp.styles.css
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\Proyecto.4FD91D1F.Up2Date
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\refint\ProyectoBackendCsharp.dll
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.pdb
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.genruntimeconfig.cache
+D:\proyectosVSCODE\ProyectoBackendCsharp\obj\Debug\net8.0\ref\ProyectoBackendCsharp.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\appsettings.json
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.staticwebassets.runtime.json
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.exe
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.deps.json
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.runtimeconfig.json
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\ProyectoBackendCsharp.pdb
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\DnsClient.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\Npgsql.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\Snappier.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoBackendCsharp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoBackendCsharp.props
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoBackendCsharp.props
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoBackendCsharp.props
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\scopedcss\bundle\ProyectoBackendCsharp.styles.css
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\Proyecto.4FD91D1F.Up2Date
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\refint\ProyectoBackendCsharp.dll
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.pdb
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\ProyectoBackendCsharp.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Escritorio\Septimo Semestre\Diseño de sistemas de informacion\Prototipo\susi-ta\ProyectoBackendCsharp\obj\Debug\net8.0\ref\ProyectoBackendCsharp.dll
